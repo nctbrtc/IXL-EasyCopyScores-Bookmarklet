@@ -6,7 +6,7 @@ A bookmarklet that helps you copy/get the scores of students with one click with
 Make a new bookmark in your browser (right-click on the bookmarks bar and click Add Page...)
 
 For the "Name" you might put "Get Scores".
-Copy the code block below, paste this into the "URL" of a new bookmark.
+Copy the code block below (do triple click to higlight all codes) , paste this into the "URL" of a new bookmark.
 
 ```javascript
 
