@@ -14,3 +14,8 @@ javascript:(function(){var $i,c=document.getElementsByClassName("chart-smartscor
 
 ```
 
+That's it ! Now navigate to IXL and filter only 1 class and 1 subjects to see scores. Than, clikc on the bookmark that you just created, a small window pops up and shows you the scores in a format we can use, just do CTRL+ C to copy and go to your grade book and do CTRL+V to paste, ta da ! It should be entered for all students ! 
+
+PS: Make sure you have your students in last name order on IXL to mathc them in SIS gradebook.
+
+<img src="https://media0.giphy.com/media/11sBLVxNs7v6WA/giphy.gif"/>
