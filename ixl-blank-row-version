@@ -1,0 +1,1 @@
+javascript:(function(){var $i,c=document.getElementsByClassName("chart-smartscore-column"),liste=[];for($i=1;$i<c.length;$i++)c[$i].innerText?c[$i]=c[$i]:c[$i].innerText="null",liste.push(c[$i].innerText);prompt("Copy to clipboard: Ctrl+C, Enter",liste.join("\n"));})();
